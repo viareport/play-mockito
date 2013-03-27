@@ -1,4 +1,4 @@
-self: play -> mockito 0.2
+self: inativ -> mockito 0.2
 
 require:
     - play [1.2.5,)
