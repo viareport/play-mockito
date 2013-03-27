@@ -1,6 +1,7 @@
-lib/play-mockito.jar
+lib/
 dist
 tmp
 .project
 .classpath
 .settings
+*.pyc
